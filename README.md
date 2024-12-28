@@ -1,5 +1,5 @@
 # Univariate-Gold-Price-Prediction
-# Project description and objectives:
+## Project description and objectives:
 The dataset consists of gold prices. For more information  about the data used in this project, refer to:
 
 https://www.kaggle.com/datasets/sid321axn/gold-price-prediction-dataset.
